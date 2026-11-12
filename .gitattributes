@@ -1,0 +1,6 @@
+# Same line endings on Windows and on the GitHub Actions runner,
+# so rebuilt graphics only show up as changes when they really changed.
+* text=auto eol=lf
+*.woff2 binary
+*.jpg binary
+*.png binary

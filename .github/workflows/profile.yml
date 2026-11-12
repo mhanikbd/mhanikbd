@@ -1,0 +1,62 @@
+# Keeps the profile's graphics current.
+#  - Rebuilds every design asset when profile.psd1 or the tools change.
+#  - Refreshes the GitHub stats card and the contribution animation daily.
+# Run it by hand from the Actions tab with "Run workflow".
+name: Profile assets
+
+on:
+  schedule:
+    - cron: '23 2 * * *'   # daily, 08:23 in Dhaka
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'profile.psd1'
+      - 'tools/**'
+      - 'assets/source/**'
+      - '.github/workflows/profile.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild design assets
+        shell: pwsh
+        run: ./tools/build-assets.ps1
+
+      - name: Refresh GitHub stats
+        shell: pwsh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: ./tools/update-stats.ps1
+
+      - name: Generate contribution animation
+        uses: Platane/snk/svg-only@v3
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark&color_snake=#818CF8&color_dots=#111A2E,#0F3D47,#11636B,#14918F,#2DD4BF
+            dist/snake-light.svg?color_snake=#4F46E5&color_dots=#EBEFF5,#B4E7E2,#6FD0C8,#2BB3A8,#0D9488
+
+      - name: Move contribution animation into assets
+        run: |
+          if [ -f dist/snake-dark.svg ]; then
+            mkdir -p assets/activity
+            cp dist/snake-dark.svg dist/snake-light.svg assets/activity/
+          fi
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: refresh profile assets'
+          file_pattern: 'assets/**'
