@@ -33,12 +33,14 @@
 
 <br>
 
-<a name="about"></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-about-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-about-light.svg">
-  <img width="100%" alt="01 About: Where business, people and technology meet" src="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-about-dark.svg">
-</picture>
+<p>
+  <a name="about"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-about-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-about-light.svg">
+    <img width="100%" alt="01 About: Where business, people and technology meet" src="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-about-dark.svg">
+  </picture>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/about-code-dark.svg">
@@ -70,12 +72,14 @@ Having been the developer, the analyst and the delivery lead, I can translate be
 
 <br>
 
-<a name="journey"></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-journey-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-journey-light.svg">
-  <img width="100%" alt="02 Journey: From freelancer to enterprise delivery" src="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-journey-dark.svg">
-</picture>
+<p>
+  <a name="journey"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-journey-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-journey-light.svg">
+    <img width="100%" alt="02 Journey: From freelancer to enterprise delivery" src="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-journey-dark.svg">
+  </picture>
+</p>
 
 <p align="center">
   <picture>
@@ -87,12 +91,14 @@ Having been the developer, the analyst and the delivery lead, I can translate be
 
 <br>
 
-<a name="work"></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-work-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-work-light.svg">
-  <img width="100%" alt="03 Work: Selected work across six practice areas" src="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-work-dark.svg">
-</picture>
+<p>
+  <a name="work"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-work-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-work-light.svg">
+    <img width="100%" alt="03 Work: Selected work across six practice areas" src="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-work-dark.svg">
+  </picture>
+</p>
 
 <p align="center">
   <picture>
@@ -195,12 +201,14 @@ Having been the developer, the analyst and the delivery lead, I can translate be
 
 <br>
 
-<a name="capabilities"></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-capabilities-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-capabilities-light.svg">
-  <img width="100%" alt="04 Capabilities: What I bring to the table" src="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-capabilities-dark.svg">
-</picture>
+<p>
+  <a name="capabilities"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-capabilities-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-capabilities-light.svg">
+    <img width="100%" alt="04 Capabilities: What I bring to the table" src="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-capabilities-dark.svg">
+  </picture>
+</p>
 
 <p align="center">
   <picture>
@@ -212,12 +220,14 @@ Having been the developer, the analyst and the delivery lead, I can translate be
 
 <br>
 
-<a name="activity"></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-activity-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-activity-light.svg">
-  <img width="100%" alt="05 Activity: Building in public" src="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-activity-dark.svg">
-</picture>
+<p>
+  <a name="activity"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-activity-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-activity-light.svg">
+    <img width="100%" alt="05 Activity: Building in public" src="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-activity-dark.svg">
+  </picture>
+</p>
 
 <p align="center">
   <picture>
@@ -239,12 +249,14 @@ Having been the developer, the analyst and the delivery lead, I can translate be
 
 <br>
 
-<a name="vision"></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-vision-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-vision-light.svg">
-  <img width="100%" alt="06 Vision: What drives me" src="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-vision-dark.svg">
-</picture>
+<p>
+  <a name="vision"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-vision-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-vision-light.svg">
+    <img width="100%" alt="06 Vision: What drives me" src="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-vision-dark.svg">
+  </picture>
+</p>
 
 <p align="center">
   <picture>
@@ -256,12 +268,14 @@ Having been the developer, the analyst and the delivery lead, I can translate be
 
 <br>
 
-<a name="connect"></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-connect-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-connect-light.svg">
-  <img width="100%" alt="07 Connect: Let's work together" src="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-connect-dark.svg">
-</picture>
+<p>
+  <a name="connect"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-connect-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-connect-light.svg">
+    <img width="100%" alt="07 Connect: Let's work together" src="https://raw.githubusercontent.com/mhanikbd/mhanikbd/main/assets/section-graphics/header-connect-dark.svg">
+  </picture>
+</p>
 
 <p align="center">
   <picture>
