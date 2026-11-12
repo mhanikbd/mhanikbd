@@ -1,74 +1,74 @@
 {
-    "generated":  "2026-11-12",
-    "user":  "mhanikbd",
-    "from":  "2025-11-09",
-    "to":  "2026-11-12",
-    "total":  95,
-    "activeDays":  36,
-    "longest":  4,
-    "current":  1,
-    "repos":  10,
-    "stars":  0,
-    "languages":  [
-                      {
-                          "name":  "Java",
-                          "bytes":  1621488
-                      },
-                      {
-                          "name":  "JavaScript",
-                          "bytes":  773522
-                      },
-                      {
-                          "name":  "TypeScript",
-                          "bytes":  635963
-                      },
-                      {
-                          "name":  "Blade",
-                          "bytes":  473680
-                      },
-                      {
-                          "name":  "PHP",
-                          "bytes":  209627
-                      },
-                      {
-                          "name":  "CSS",
-                          "bytes":  121846
-                      },
-                      {
-                          "name":  "Python",
-                          "bytes":  62132
-                      },
-                      {
-                          "name":  "HTML",
-                          "bytes":  59625
-                      },
-                      {
-                          "name":  "C#",
-                          "bytes":  15131
-                      },
-                      {
-                          "name":  "PowerShell",
-                          "bytes":  12308
-                      },
-                      {
-                          "name":  "Inno Setup",
-                          "bytes":  6700
-                      },
-                      {
-                          "name":  "Dockerfile",
-                          "bytes":  2219
-                      },
-                      {
-                          "name":  "PLpgSQL",
-                          "bytes":  1792
-                      },
-                      {
-                          "name":  "Shell",
-                          "bytes":  1755
-                      },
-                      {
-                          "name":  "Batchfile",
-                          "bytes":  1507
-                      }
-                  ]
+  "generated": "2026-11-12",
+  "user": "mhanikbd",
+  "from": "2025-11-09",
+  "to": "2026-11-12",
+  "total": 95,
+  "activeDays": 36,
+  "longest": 4,
+  "current": 1,
+  "repos": 10,
+  "stars": 0,
+  "languages": [
+    {
+      "name": "Java",
+      "bytes": 1621488
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 773522
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 635963
+    },
+    {
+      "name": "Blade",
+      "bytes": 473680
+    },
+    {
+      "name": "PHP",
+      "bytes": 209627
+    },
+    {
+      "name": "CSS",
+      "bytes": 121846
+    },
+    {
+      "name": "Python",
+      "bytes": 62132
+    },
+    {
+      "name": "HTML",
+      "bytes": 59625
+    },
+    {
+      "name": "C#",
+      "bytes": 15131
+    },
+    {
+      "name": "PowerShell",
+      "bytes": 12308
+    },
+    {
+      "name": "Inno Setup",
+      "bytes": 6700
+    },
+    {
+      "name": "Dockerfile",
+      "bytes": 2219
+    },
+    {
+      "name": "PLpgSQL",
+      "bytes": 1792
+    },
+    {
+      "name": "Shell",
+      "bytes": 1755
+    },
+    {
+      "name": "Batchfile",
+      "bytes": 1507
+    }
+  ]
 }
